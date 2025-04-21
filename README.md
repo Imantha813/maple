@@ -30,3 +30,13 @@ and misappropriation of state resources at the time of elections.
 relatively easy to administer.
 (e) Preferential voting system should completely be eliminated from
 the system.
+
+Q5.Let n be a non-negative integer.
+(a) Write a Maple procedure BinomialExpansion(n) which returns
+the expansions of (x + y)^k
+for k = 0...n, where x and y are real
+variables.
+(b) Write a Maple procedure PascalsTriangle(n) which returns the
+numerical coefficients of the expansions of (x+y)^k
+for k = 0...n.
+Test your procedures for few n values.
