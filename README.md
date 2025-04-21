@@ -9,3 +9,10 @@ the following sub-procedures
 Q2.Write a Maple program using procedures to take an array with positive integers as an input and display the following.
 (a) Summation of odd and even integers separately
 (b) Arithmetic mean of odd and even integers separately
+
+Q3.Write a Maple program using procedures to calculate the surface area
+and the volume of a sphere. Write three different sub procedures to
+do the following
+(a) calculate area
+(b) calculate volume
+(c) display the results
